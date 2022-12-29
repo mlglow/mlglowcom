@@ -1,7 +1,7 @@
 # selva
 The code for the website: www.mlglow.com. 
 
-# Steps in Githib
+# Steps in Github
 * Crete the HTML website 
 * Create a file "CNAME" with "www.mlglow.com" as the only content
 * Push to the "main" branch
